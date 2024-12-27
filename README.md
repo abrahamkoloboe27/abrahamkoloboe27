@@ -1,5 +1,5 @@
 # Abraham KOLOBOE
-   
+
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abrahamkoloboe27&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-zacharie-koloboe-data-science-ia-generative-llms-machine-learning/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abklb27@gmail.com)
@@ -10,11 +10,11 @@
 - 🌱 Passionate about machine learning, dashboard development, and deploying ML models into production.
 - 📫 How to reach me: abklb27@gmail.com
 
-### 🖥 Skills
+### 🖥️ Skills
 
-- **Machine Learning & Modeling**
-- **Dashboard Development**
-- **MLOps & Deployment**
+- **🤖 Machine Learning & Modeling**
+- **📊 Dashboard Development**
+- **🚀 MLOps & Deployment**
 
 ### ⚙️ Tech Stack
 
@@ -41,15 +41,14 @@
 
 ### 📈 Notable Projects
 
-- **Machine Learning & Modeling:**
-  - [Fruits Recognition Training](https://github.com/abrahamkoloboe27/Fruits-Recognition-Training): Development and evaluation of AI models for fruit image classification, including custom CNN, EfficientNet, ResNet, and VGG16.
-  - [Churn Prediction and Analysis Project](https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project): Customer data analysis and churn risk prediction using machine learning techniques.
+- **🤖 Machine Learning & Modeling:**
+  - [🍎 Fruits Recognition Training](https://github.com/abrahamkoloboe27/Fruits-Recognition-Training): Development and evaluation of AI models for fruit image classification, including custom CNN, EfficientNet, ResNet, and VGG16.
+  - [🔍 Churn Prediction and Analysis Project](https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project): Customer data analysis and churn risk prediction using machine learning techniques.
 
-- **Dashboard Development:**
-  - [Dashboard Streamlit ATUT](https://github.com/abrahamkoloboe27/Dashboard-Streamlit-ATUT): Interactive dashboard built with Streamlit for data visualization and analysis.
-  - [Retail Analysis and Prediction](https://github.com/abrahamkoloboe27/Retail-Analysis-and-Prediction): Development of a dashboard for retail data analysis and sales prediction.
+- **📊 Dashboard Development:**
+  - [📈 Dashboard Streamlit ATUT](https://github.com/abrahamkoloboe27/Dashboard-Streamlit-ATUT): Interactive dashboard built with Streamlit for data visualization and analysis.
+  - [🛍️ Retail Analysis and Prediction](https://github.com/abrahamkoloboe27/Retail-Analysis-and-Prediction): Development of a dashboard for retail data analysis and sales prediction.
 
-- **MLOps & Deployment:**
-  - [Fruits Recognition API](https://github.com/abrahamkoloboe27/Fruits-Recognition-API): API developed with FastAPI to predict house prices based on various features.
-  - [MLOps Continuous Integration (CI) and Continuous Deployment (CD)](https://github.com/abrahamkoloboe27/Demo-CICD-With-Github-Actions-ATUT-SN): Demonstration of CI/CD pipeline implementation using GitHub Actions.
-
+- **🚀 MLOps & Deployment:**
+  - [🍇 Fruits Recognition API](https://github.com/abrahamkoloboe27/Fruits-Recognition-API): API developed with FastAPI to predict house prices based on various features.
+  - [🔧 MLOps Continuous Integration (CI) and Continuous Deployment (CD)](https://github.com/abrahamkoloboe27/Demo-CICD-With-Github-Actions-ATUT-SN): Demonstration of CI/CD pipeline implementation using GitHub Actions.
