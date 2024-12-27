@@ -18,7 +18,7 @@
 
 ### ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&color= #03b6f9)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&color=03b6f9)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&color=ADD8E6)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&color=ADD8E6)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&color=ADD8E6)
