@@ -1,4 +1,4 @@
-[# 👋 Hello, I'm **Abraham KOLOBOE**
+# 👋 Hello, I'm **Abraham KOLOBOE**
 
 **Data Scientist | MLOps Engineer | Engineer in Mathematical Modeling & Operational Research**
 
@@ -67,8 +67,3 @@ Passionate about machine learning, dashboard development, and deploying ML model
 - **WhatsApp:** [+229 91 83 84 21](https://wa.me/22991838421)
 
 Feel free to reach out for potential collaborations or to discuss topics related to data science, machine learning, and MLOps.
-
----
-
-*This profile is regularly updated to reflect my current projects and skills.*
-](https://docs.google.com/spreadsheets/d/1kKgAqce6zv2EEy7T2Ue5mt1_iufXehnA/edit?usp=sharing&ouid=111436479738810294664&rtpof=true&sd=true)
