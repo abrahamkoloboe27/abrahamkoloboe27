@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Abraham KOLOBOE**
+[# 👋 Hello, I'm **Abraham KOLOBOE**
 
 **Data Scientist | MLOps Engineer | Engineer in Mathematical Modeling & Operational Research**
 
@@ -71,3 +71,4 @@ Feel free to reach out for potential collaborations or to discuss topics related
 ---
 
 *This profile is regularly updated to reflect my current projects and skills.*
+](https://docs.google.com/spreadsheets/d/1kKgAqce6zv2EEy7T2Ue5mt1_iufXehnA/edit?usp=sharing&ouid=111436479738810294664&rtpof=true&sd=true)
