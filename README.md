@@ -51,5 +51,5 @@
 
 - **MLOps & Deployment:**
   - [Fruits Recognition API](https://github.com/abrahamkoloboe27/Fruits-Recognition-API): API developed with FastAPI to predict house prices based on various features.
-  - [Demo CICD With GitHub Actions ATUT SN](https://github.com/abrahamkoloboe27/Demo-CICD-With-Github-Actions-ATUT-SN): Demonstration of CI/CD pipeline implementation using GitHub Actions.
+  - [MLOps Continuous Integration (CI) and Continuous Deployment (CD)](https://github.com/abrahamkoloboe27/Demo-CICD-With-Github-Actions-ATUT-SN): Demonstration of CI/CD pipeline implementation using GitHub Actions.
 
