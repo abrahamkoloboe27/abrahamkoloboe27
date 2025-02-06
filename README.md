@@ -13,6 +13,7 @@
 ### 🖥️ Skills
 
 - **🤖 Machine Learning & Modeling**
+- **🔄 Data Engineering & Data Pipelines**
 - **📊 Dashboard Development**
 - **🚀 MLOps & Deployment**
 
@@ -45,7 +46,7 @@
   - [🍎 Fruits Recognition Training](https://github.com/abrahamkoloboe27/Fruits-Recognition-Training): Development and evaluation of AI models for fruit image classification, including custom CNN, EfficientNet, ResNet, and VGG16.
   - [🔍 Churn Prediction and Analysis Project](https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project): Customer data analysis and churn risk prediction using machine learning techniques.
 
-- **🔄 Data Engineering & Pipelines:**
+- **🔄 Data Engineering & Data Pipelines:**
   - [🛍️ E-Commerce Data Pipeline](https://github.com/abrahamkoloboe27/E-Commerce-Data-Pipeline-And-Dashboard-With-Apache-Superset): End-to-end data pipeline for e-commerce analytics with Apache Superset dashboard.
   - [✈️ Airline Analytics Pipeline](https://github.com/abrahamkoloboe27/Airflow-Pipeline-Dashboard-Compagnie-Aerienne): Automated data pipeline using Apache Airflow for airline data processing and visualization.
 
