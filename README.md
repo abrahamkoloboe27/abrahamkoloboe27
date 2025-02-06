@@ -44,6 +44,9 @@
 - **🤖 Machine Learning & Modeling:**
   - [🍎 Fruits Recognition Training](https://github.com/abrahamkoloboe27/Fruits-Recognition-Training): Development and evaluation of AI models for fruit image classification, including custom CNN, EfficientNet, ResNet, and VGG16.
   - [🔍 Churn Prediction and Analysis Project](https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project): Customer data analysis and churn risk prediction using machine learning techniques.
+- **🔄 Data Engineering & Pipelines:**
+  - [🛍️ E-Commerce Data Pipeline](https://github.com/abrahamkoloboe27/E-Commerce-Data-Pipeline-And-Dashboard-With-Apache-Superset): End-to-end data pipeline for e-commerce analytics with Apache Superset dashboard.
+  - [✈️ Airline Analytics Pipeline](https://github.com/abrahamkoloboe27/Airflow-Pipeline-Dashboard-Compagnie-Aerienne): Automated data pipeline using Apache Airflow for airline data processing and visualization.
 
 - **📊 Dashboard Development:**
   - [📈 Dashboard Streamlit ATUT](https://github.com/abrahamkoloboe27/Dashboard-Streamlit-ATUT): Interactive dashboard built with Streamlit for data visualization and analysis.
