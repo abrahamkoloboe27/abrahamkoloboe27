@@ -39,7 +39,6 @@
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
 ![Dagster](https://img.shields.io/badge/-Dagster-1A1919?style=flat-square&logo=dagster&logoColor=white)
 ![Redpanda](https://img.shields.io/badge/-Redpanda-FA4D57?style=flat-square&logo=redpanda&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
