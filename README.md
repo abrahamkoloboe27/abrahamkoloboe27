@@ -52,9 +52,9 @@
   - [🔍 Churn Prediction and Analysis Project](https://github.com/abrahamkoloboe27/Churn-Prediction-and-Analysis-Project): Customer data analysis and churn risk prediction using machine learning techniques.
 
 - **🔄 Data Engineering & Data Pipelines:**
-  - [🛍️ E-Commerce Data Pipeline](https://github.com/abrahamkoloboe27/E-Commerce-Data-Pipeline-And-Dashboard-With-Apache-Superset): End-to-end data pipeline for e-commerce analytics with Apache Superset dashboard.
+  - [🛍️ E-Commerce Data Pipeline](https://github.com/abrahamkoloboe27/E-Commerce-Data-Pipeline-And-Dashboard-With-Apache-Superset): A comprehensive data engineering platform for e-commerce including synthetic data generation (Python Faker), ETL pipeline orchestration (Apache Airflow), structured data lake (Bronze/Silver/Gold layers), interactive analytics dashboards (Apache Superset), and real-time monitoring (Grafana).
   - [🚗 RentCar Analytics Pipeline](https://github.com/abrahamkoloboe27/rentcar-pipeline-airbyte-snowflake-dbt-airflow-astro): End-to-end data pipeline using MongoDB Atlas, Airbyte Cloud, dbt, Airflow (Astronomer), Snowflake, and Metabase.
-  - [✈️ Airline Analytics Pipeline](https://github.com/abrahamkoloboe27/Airflow-Pipeline-Dashboard-Compagnie-Aerienne): Automated data pipeline using Apache Airflow for airline data processing and visualization.
+  - [✈️ Airline Analytics Pipeline](https://github.com/abrahamkoloboe27/Airflow-Pipeline-Dashboard-Compagnie-Aerienne): End-to-end data pipeline using Apache Airflow to extract airline data from PostgreSQL, transform with DuckDB, store in MongoDB Atlas, and visualize through an interactive Streamlit dashboard.
 
 - **📊 Dashboard Development:**
   - [📈 Dashboard Streamlit ATUT](https://github.com/abrahamkoloboe27/Dashboard-Streamlit-ATUT): Interactive dashboard built with Streamlit for data visualization and analysis.
