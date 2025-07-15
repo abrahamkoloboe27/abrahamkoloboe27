@@ -53,6 +53,7 @@
 
 - **🔄 Data Engineering & Data Pipelines:**
   - [🛍️ E-Commerce Data Pipeline](https://github.com/abrahamkoloboe27/E-Commerce-Data-Pipeline-And-Dashboard-With-Apache-Superset): End-to-end data pipeline for e-commerce analytics with Apache Superset dashboard.
+  - [🚗 RentCar Analytics Pipeline](https://github.com/abrahamkoloboe27/rentcar-pipeline-airbyte-snowflake-dbt-airflow-astro): End-to-end data pipeline using MongoDB Atlas, Airbyte Cloud, dbt, Airflow (Astronomer), Snowflake, and Metabase.
   - [✈️ Airline Analytics Pipeline](https://github.com/abrahamkoloboe27/Airflow-Pipeline-Dashboard-Compagnie-Aerienne): Automated data pipeline using Apache Airflow for airline data processing and visualization.
 
 - **📊 Dashboard Development:**
