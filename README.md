@@ -6,7 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/22991838421)
 [![GitHub Followers](https://img.shields.io/github/followers/abrahamkoloboe27?label=Follow&style=social)](https://github.com/abrahamkoloboe27)
 
-- 💼 **Data Scientist | MLOps Engineer | Engineer in Mathematical Modeling & Operational Research**
+- 💼 **Cloud Data Engineer| Data Scientist | MLOps Engineer | Engineer in Mathematical Modeling & Operational Research**
 - 🌱 Passionate about machine learning, dashboard development, and deploying ML models into production.
 - 📫 How to reach me: abklb27@gmail.com
 
@@ -48,6 +48,18 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white)
 ![PyCaret](https://img.shields.io/badge/-PyCaret-1C1E24?style=flat-square&logo=PyCaret&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Spanner](https://img.shields.io/badge/Spanner-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
+![Data Fusion](https://img.shields.io/badge/Data%20Fusion-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white)
 
 ### 📈 Notable Projects
 
